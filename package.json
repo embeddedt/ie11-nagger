@@ -1,0 +1,24 @@
+{
+  "name": "ie11-nagger",
+  "version": "1.0.0",
+  "description": "Simple script to nag IE11 users about browser deprecation",
+  "main": "ie11-nagger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embeddedt/ie11-nagger.git"
+  },
+  "keywords": [
+    "ie11",
+    "explorer",
+    "internet-explorer"
+  ],
+  "author": "embeddedt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/embeddedt/ie11-nagger/issues"
+  },
+  "homepage": "https://github.com/embeddedt/ie11-nagger#readme"
+}
