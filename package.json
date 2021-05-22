@@ -1,6 +1,6 @@
 {
   "name": "ie11-nagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple script to nag IE11 users about browser deprecation",
   "main": "ie11-nagger.js",
   "scripts": {
